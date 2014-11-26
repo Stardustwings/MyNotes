@@ -1,0 +1,4 @@
+MyNotes
+=======
+
+Project for mwc
