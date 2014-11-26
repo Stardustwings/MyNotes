@@ -1,4 +1,4 @@
 MyNotes
 =======
 
-Project for MWC~
+Project for MWC
